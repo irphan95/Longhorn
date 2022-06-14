@@ -32,6 +32,20 @@
 ![image](https://user-images.githubusercontent.com/103019032/173517942-b07d22a1-334d-4b0b-817d-285111964035.png)
 - #### In Node page, Longhorn will show the space allocation, schedule, and usage info for each node
 ![image](https://user-images.githubusercontent.com/103019032/173518084-e572330e-9ca7-4bb7-9268-49443b8fa7e0.png)
+- #### It is what you set during the volume creation,
+![longhorn-volume](https://user-images.githubusercontent.com/103019032/173547659-206c4e56-9c48-42df-a63d-2e0e2e87214b.PNG)
+- #### The actual size indicates the actual space used by each replica on the corresponding node.
+![longhorn-actual-size](https://user-images.githubusercontent.com/103019032/173548294-58d6f629-eb6e-4fbb-9249-7879c833fb98.PNG)
+- #### We can expand volume with the help of GUI and CLI Before expansion of volume,the size is 2gb,and now i am expanding volume 2gb to 4gb with gui.
+![longhorn-volume-expansion](https://user-images.githubusercontent.com/103019032/173550058-4114ab8e-edc3-43b1-8b98-1ceeca53ac37.PNG)
+![image](https://user-images.githubusercontent.com/103019032/173550300-2e660cf6-b6e2-4595-b710-6f5bc23aa58b.png)
+- #### Now the volume expanded 2gb to 4b,you can see below the screenshot.
+![image](https://user-images.githubusercontent.com/103019032/173551111-42e4b24a-857c-450b-ae33-9d5ad0b7f1fa.png)
+- #### Now i will expand volume with CLI.Now the volume size in yaml file is 2gb,now i'm expanding volume size 2gb to 8gb,it will show in longhorn gui.
+![image](https://user-images.githubusercontent.com/103019032/173551956-409431e9-78fb-4486-ae5a-683ba62130c6.png)
+![image](https://user-images.githubusercontent.com/103019032/173552159-8f6c2f99-e656-42a7-b90a-f99fb7b21154.png)
+  
 
+  
 
 
