@@ -25,6 +25,13 @@
 ![image](https://user-images.githubusercontent.com/103019032/173515522-5b888a1b-3912-4a28-b706-891db8fcac5f.png)
 - #### Now check the pvc through longhorn ui,click on volume option,then click name of pvc,and show the details of pvc.
 ![longhorn-pvc](https://user-images.githubusercontent.com/103019032/173516616-1ff9766a-42bc-4bf3-9cbe-c894d3fb2759.PNG)
+- #### Show all the details of volume.
+![image](https://user-images.githubusercontent.com/103019032/173517161-bc194890-19c8-4d6a-a0f8-6ff2b66c6efe.png)
+- #### Node space Usage:
+- #### In Dashboard page, Longhorn will show you the cluster space usage info
+![image](https://user-images.githubusercontent.com/103019032/173517942-b07d22a1-334d-4b0b-817d-285111964035.png)
+- #### In Node page, Longhorn will show the space allocation, schedule, and usage info for each node
+![image](https://user-images.githubusercontent.com/103019032/173518084-e572330e-9ca7-4bb7-9268-49443b8fa7e0.png)
 
 
 
