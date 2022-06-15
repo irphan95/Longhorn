@@ -41,10 +41,14 @@
 ![image](https://user-images.githubusercontent.com/103019032/173550300-2e660cf6-b6e2-4595-b710-6f5bc23aa58b.png)
 - #### Now the volume expanded 2gb to 4b,you can see below the screenshot.
 ![image](https://user-images.githubusercontent.com/103019032/173551111-42e4b24a-857c-450b-ae33-9d5ad0b7f1fa.png)
-- #### Now i will expand volume with CLI.Now the volume size in yaml file is 2gb,now i'm expanding volume size 2gb to 8gb,it will show in longhorn gui.
-![image](https://user-images.githubusercontent.com/103019032/173551956-409431e9-78fb-4486-ae5a-683ba62130c6.png)
-![image](https://user-images.githubusercontent.com/103019032/173552159-8f6c2f99-e656-42a7-b90a-f99fb7b21154.png)
-  
+- #### In a node option,you can see status is schedulable,if the disk is full,it will show the node down in the status.
+![image](https://user-images.githubusercontent.com/103019032/173730023-f29e8e44-4d02-4905-a42c-d3eeec21fe6e.png)
+- #### Now you can see the size of disk 50gb of 34gb is free,but i have full the disk using fallocate command.
+ ![disk space1](https://user-images.githubusercontent.com/103019032/173730866-fa5da305-6850-4242-9086-9528834f8a59.PNG)
+- #### Now i have full the disk space.so we will see that the node will be the down in the status.
+![image](https://user-images.githubusercontent.com/103019032/173732185-c44794ab-d9cc-4a40-9bd9-01c426aa43dc.png)
+- #### It can be scheduable,if we give the space in the disk.
+
 
   
 
