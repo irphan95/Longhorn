@@ -48,6 +48,7 @@
 - #### Now i have full the disk space.so we will see that the node will be the down in the status.
 ![image](https://user-images.githubusercontent.com/103019032/173732185-c44794ab-d9cc-4a40-9bd9-01c426aa43dc.png)
 - #### It can be scheduable,if we give the space in the disk.
+![image](https://user-images.githubusercontent.com/103019032/173733772-431fb8c9-1de1-4557-9eb6-6ca096418c06.png)
 
 
   
